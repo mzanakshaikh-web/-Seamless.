@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Seamless</string>
+    <string name="widget_name">Seamless Wave</string>
+    <string name="widget_description">Resizable audio-reactive music widget with subtle wave motion.</string>
+    <string name="developer_credit">developed by Shaikh Mzanak</string>
+    <string name="nav_listen">Listen</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_studio">Studio</string>
+    <string name="cd_play">Play</string>
+    <string name="cd_pause">Pause</string>
+    <string name="cd_next">Next track</string>
+    <string name="cd_previous">Previous track</string>
+    <string name="cd_infinity">Infinity seamless blend</string>
+    <string name="cd_album_art">Album cover artwork</string>
+    <string name="cd_equalizer">Open equalizer</string>
+    <string name="cd_queue">Open queue</string>
+    <string name="cd_favorite">Toggle favorite</string>
+</resources>

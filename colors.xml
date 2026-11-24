@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="seamless_splash_bg">#FF1C1E21</color>
+    <color name="seamless_matte_surface">#FF25282C</color>
+    <color name="seamless_mint">#FF3EE6B5</color>
+    <color name="seamless_blue">#FF4D8EFF</color>
+    <color name="seamless_violet">#FF9A5BFF</color>
+</resources>
